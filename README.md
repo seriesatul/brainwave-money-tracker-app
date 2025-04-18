@@ -1,73 +1,48 @@
-# Welcome to your Lovable project
+# 💰 Money Tracker Web App
 
-## Project info
+A simple and efficient web application to help users track their income and expenses in real-time. Built during my internship at **Brainwave Matrix Solution**, this app aims to promote financial awareness and easy money management.
 
-**URL**: https://lovable.dev/projects/2ce1060a-9e9c-47bc-ac30-48d83ce76095
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- 📥 **Add Income & Expenses** – Seamlessly log your transactions with category and date.
+- 📊 **Real-time Balance Display** – See your current balance update instantly.
+- 📆 **Transaction History** – View a complete list of your past incomes and expenses.
+- ✏️ **Edit/Delete Entries** – Modify or remove entries as needed.
+- 🔒 **Authentication (optional)** – Secure login/signup for personalized tracking.
+- 💡 **User-friendly UI** – Clean, responsive interface for ease of use on all devices.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2ce1060a-9e9c-47bc-ac30-48d83ce76095) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla / or React if used)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB (with Mongoose)
+- **Version Control:** Git & GitHub
+- **Deployment:** (mention if hosted on Vercel / Netlify / Render / etc.)
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📸 Screenshots
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+![image](https://github.com/user-attachments/assets/52021472-4502-4953-85c5-17c8c542528d)
 
-Follow these steps:
+![image](https://github.com/user-attachments/assets/272ab06c-49aa-4900-b589-6853aedb3895)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+![image](https://github.com/user-attachments/assets/640b1deb-c2af-41ee-aa8a-7562eb85a0f9)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+![image](https://github.com/user-attachments/assets/9d156ee6-9467-4570-9e76-3c25d836d411)
 
-# Step 3: Install the necessary dependencies.
-npm i
+![image](https://github.com/user-attachments/assets/5b853a57-8d1a-46d7-9d5e-a94e8dcec8c6)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📦 Setup Instructions
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2ce1060a-9e9c-47bc-ac30-48d83ce76095) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/money-tracker.git
+   cd money-tracker
